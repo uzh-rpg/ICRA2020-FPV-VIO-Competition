@@ -1,5 +1,7 @@
 # The FPV Drone Racing VIO Competition (ICRA 2020)
 
+### [Find the IROS 2020 edition of this competition here](https://uzh-rpg.github.io/IROS2020-FPV-VIO-Competition/)
+
 <p align="center">
   <img width="50%" src="http://rpg.ifi.uzh.ch/datasets/uzh-fpv/trajs/indoor_forward_3_snapdragon_with_gt.gif" alt="The FPV Drone Racing VIO Competition" class="center"> 
 </p>
@@ -15,9 +17,9 @@ This is the second edition of the competition [first held at IROS 2019](https://
 
 The prize money will only be awarded to the  single team with the best performance. Evaluation details are provided below. Results and report from the previous year can be found [on the dataset website](http://rpg.ifi.uzh.ch/uzh-fpv.html). The winner will also be **invited to present his approach at the relevant ICRA 2020 Workshop (TBA)**.
 
-## Deadline
+## Results
 
-The **deadline to submit the estimated trajectories and report is April 26th, 2020. Submit [here](https://form.jotform.com/200722900749352)**.
+The submissions have been received, are being processed, and will be announced in due time.
 
 ## Table of Contents:
 
