@@ -1,6 +1,6 @@
 # The FPV Drone Racing VIO Competition (ICRA 2020)
 
-### [Find the IROS 2020 edition of this competition here](https://uzh-rpg.github.io/IROS2020-FPV-VIO-Competition/)
+### [Find the new IROS 2020 edition of this competition here](https://uzh-rpg.github.io/IROS2020-FPV-VIO-Competition/)
 
 <p align="center">
   <img width="50%" src="http://rpg.ifi.uzh.ch/datasets/uzh-fpv/trajs/indoor_forward_3_snapdragon_with_gt.gif" alt="The FPV Drone Racing VIO Competition" class="center"> 
