@@ -19,7 +19,7 @@ The prize money will only be awarded to the  single team with the best performan
 
 ## Results
 
-The submissions have been received, are being processed, and will be announced in due time.
+The results are visible [on the dataset website](http://rpg.ifi.uzh.ch/uzh-fpv.html).
 
 ## Table of Contents:
 
